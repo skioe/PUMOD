@@ -1,0 +1,6 @@
+﻿  codeClient.cpp
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(10,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(9,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(12,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(11,89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+LINK : fatal error LNK1104: не удается открыть файл "mainCode.lib"

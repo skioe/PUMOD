@@ -1,0 +1,87 @@
+﻿  pch.cpp
+  camera.cpp
+D:\tools\test3\mainCode\mainCode\camera.cpp(5,15): warning C4273: camera: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\camera.h(13,31): message : см. предыдущее определение "camera"
+D:\tools\test3\mainCode\mainCode\camera.cpp(7,6): warning C4273: cameraApply: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\camera.h(15,28): message : см. предыдущее определение "cameraApply"
+D:\tools\test3\mainCode\mainCode\camera.cpp(14,6): warning C4273: cameraRotation: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\camera.h(16,28): message : см. предыдущее определение "cameraRotation"
+D:\tools\test3\mainCode\mainCode\camera.cpp(25,6): warning C4273: cameraAutoMouseMove: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\camera.h(17,28): message : см. предыдущее определение "cameraAutoMouseMove"
+D:\tools\test3\mainCode\mainCode\camera.cpp(34,6): warning C4273: cameraMoveDirection: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\camera.h(18,28): message : см. предыдущее определение "cameraMoveDirection"
+D:\tools\test3\mainCode\mainCode\camera.cpp(36,14): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\camera.cpp(39,22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\camera.cpp(41,17): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\camera.cpp(44,22): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  dllmain.cpp
+  mainCode.cpp
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(20,55): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(42,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(43,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(65,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(66,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(76,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(76,26): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(104,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(105,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(115,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(115,26): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(158,6): warning C4273: initialize: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(9,26): message : см. предыдущее определение "initialize"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(163,6): warning C4273: resize: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(12,26): message : см. предыдущее определение "resize"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(186,31): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(186,18): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(187,19): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(187,12): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(235,39): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(235,19): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(236,20): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(236,13): warning C4244: аргумент: преобразование "int" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(253,42): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(253,25): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(311,24): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(311,21): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(313,15): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(316,22): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(324,7): warning C4273: mapGetHeight: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\camera.h(14,29): message : см. предыдущее определение "mapGetHeight"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(336,6): warning C4273: mapInit: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(10,26): message : см. предыдущее определение "mapInit"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(355,30): warning C4305: аргумент: усечение из "double" в "GLclampf"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(361,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(362,18): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(363,32): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(365,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(366,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(409,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(414,28): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(419,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(421,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(422,26): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(431,16): warning C4305: инициализация: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(451,15): warning C4305: +=: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(459,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(460,8): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(493,18): warning C4244: аргумент: преобразование "double" в "GLfloat", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(512,12): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(525,26): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(540,25): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(586,6): warning C4273: pressE: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(15,26): message : см. предыдущее определение "pressE"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(597,6): warning C4273: draw: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(11,26): message : см. предыдущее определение "draw"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(617,32): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(616,31): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(632,55): warning C4273: mouseButton: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(14,26): message : см. предыдущее определение "mouseButton"
+D:\tools\test3\mainCode\mainCode\mainCode.cpp(654,6): warning C4273: idle: несовместимое связывание dll
+D:\tools\test3\mainCode\mainCode\main.h(13,26): message : см. предыдущее определение "idle"
+     Создается библиотека D:\tools\test3\codeClient\Release\mainCode.lib и объект D:\tools\test3\codeClient\Release\mainCode.exp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+  All 272 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  mainCode.vcxproj -> D:\tools\test3\codeClient\Release\mainCode.dll
+  Скопировано файлов:         1.

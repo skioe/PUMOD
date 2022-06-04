@@ -1,0 +1,14 @@
+﻿  codeClient.cpp
+D:\tools\test3\mainCode\mainCode\main.h(87,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\main.h(88,1): warning C4305: аргумент: усечение из "double" в "float"
+D:\tools\test3\mainCode\mainCode\main.h(98,44): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\tools\test3\mainCode\mainCode\main.h(98,26): warning C4244: аргумент: преобразование "double" в "GLint", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(10,37): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(9,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(12,73): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+D:\tools\test3\codeClient\codeClient\codeClient.cpp(11,89): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  codeClient.vcxproj -> D:\tools\test3\codeClient\x64\Debug\codeClient.exe
+  Скопировано файлов: 0.
+  Не найден файл: mainCode.dll
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: выход из команды "xcopy /y /d "..\..\mainCode\x64\Debug\mainCode.dll" "D:\tools\test3\codeClient\x64\Debug\"
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(157,5): error MSB3073: :VCEnd" с кодом 4.
